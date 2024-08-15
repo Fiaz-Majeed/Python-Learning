@@ -1,0 +1,26 @@
+1. Data types:
+	a. Primitives = single value stored- string, integer, Boolean, float6
+	b. Non-primitives = multiple values
+2. Variable phases: declaration , initialization
+3. Errors: Syntax, logical, run-time
+4. mypie in python provides logical error at compile time.
+5. Variable: explicit (provide type)-best practice, non- explicit (do not provide type but detect based on value)
+6. ipynb (interactive python notebook)-runs the code in chunks
+7. List: store multiple values at consecutive memory locations.
+	positive indexing = 0, 1, 2, ..., Reverse indexing = -4, -3, -2, -1
+	Slicing: extract a part from the list.
+8. Copy() function copies list at different memory locations.
+p
+
+
+
+
+
+Assignment
+1. Run prompts
+2. 
+
+
+
+
+

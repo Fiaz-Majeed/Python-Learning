@@ -1,5 +1,6 @@
+Class 4:
 1. Data types:
-	a. Primitives = single value stored- string, integer, Boolean, float6
+	a. Primitives = single value stored- string, integer, Boolean, float
 	b. Non-primitives = multiple values
 2. Variable phases: declaration , initialization
 3. Errors: Syntax, logical, run-time
@@ -10,15 +11,22 @@
 	positive indexing = 0, 1, 2, ..., Reverse indexing = -4, -3, -2, -1
 	Slicing: extract a part from the list.
 8. Copy() function copies list at different memory locations.
-p
-
-
-
-
-
 Assignment
 1. Run prompts
 2. 
+
+
+Class 5:
+Docker 
+1. Install WSL (Windows subsystem for Linux)- i)Install Linux on Windows- ii)command wsl -install on cmd/powershell-iii)turn on vm platforms and WSL
+2. Install docker- minimum requirement (64bit processor + 4GB RAM) 
+
+Reading Assignment
+Do While, While and For loop- In which scenarios each used?
+  
+
+
+
 
 
 
